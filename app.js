@@ -1,3 +1,4 @@
+import "./shopping-list.js";
 const btn = document.querySelector("button");
 const body = document.querySelector("body");
 const result = document.querySelector(".result");
